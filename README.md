@@ -52,3 +52,7 @@ Unless otherwise specified, everything in this repository is covered by the foll
 ***Python Intro*** by [Ben Nuttall](https://github.com/bennuttall) is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 Based on a work at https://github.com/bennuttall/python-intro
+ ![Python Logo](https://www.python.org/static/community_logos/python-logo-inkscape.svg) 
+
+## Student Fork  
+This fork of the project is for learning python. May contain spoilers.
